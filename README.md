@@ -1,6 +1,6 @@
 # Reading Tracker README
 ## What is Reading Tracker?
-Reading tracker is an python program you can run in any python IDE. It keepsWhen it is run, it asks you if you want to see the books that you have read so far, or if you want to enter a new book. The answer is not case sensitive, but you need to get the spelling right. If you want to view the books that you have read so far, it will output the books in list format. The file saves locally, so you do not have to leave the program continuously running. The file is saved in the same folder that you are running this file in. If you want to enter a new book, it will save it to a new line in the file.
+Reading tracker is an python program you can run in any python IDE. It keeps track of what you read. When it is run, it asks to enter a new book name. If you want to enter a new book, it will save it to a new line in the file. It will save to a file named reader.txt that is in the folder Reading-Tracker. You can then go into that file (reader.txt) and view all of the books you have read so far!   
 ## Can I fork or add a pull request?
 Of course!
 ## How can I become a contributer?
